@@ -1,7 +1,7 @@
-# Backend Developer Assignment
+# Full Stack-Developer Assignment
 
 ## Overview
-This project is a backend application built using NestJS and PostgreSQL to manage and query college-related data. It includes features for authentication, college placements, courses, cities, and states, with a focus on performance and scalability.
+This project is a backend application built using MERN stack to manage and query related data. It includes features for authentication, college placements, courses, cities, and states, with a focus on performance and scalability.
 
 ## Features
 - **Authentication**: JWT-based authentication with login and signup functionality.
